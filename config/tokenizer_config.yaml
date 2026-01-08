@@ -1,0 +1,6 @@
+vocab_size: 5000
+min_frequency: 2
+special_tokens:
+  - "<|endoftext|>"
+files:
+  - "data/TinyStoriesV2-GPT4-valid.txt" # Default/Example file
